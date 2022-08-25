@@ -3,7 +3,7 @@
 Meu nome é Victor Souza, 24 , Desenvolvedor Front-end em processo !
  
  - 📚 Estudando : JavaScritp & ReactJs
- - 📫 Contate-me no emmail : victorsouza11@gmail.com
+ - 📫 Contate-me no email : victorsouza11@gmail.com
  - ⚽ Amante dos esportes !
  <div>
   <a href="https://www.linkedin.com/in/victor-souza-b4a4811a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
